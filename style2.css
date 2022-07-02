@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*nafbar*/
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(138, 10, 212);
+    height: 60px;
+    width: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.header-logo{
+    display: flex;
+    gap: 5px;
+}
+.header-logo-text{
+    display: flex;
+    color: rgb(12, 1, 22);
+}
+.header-nav{
+    display: flex;
+    gap:20px ;
+    font-style: italic;
+
+}
+
+.judul{
+    display: flex;
+    font-weight: bold;
+    color: black;
+    size: 60px;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.header-logo2{
+    display: flex;
+    padding-left: 250px;
+
+    
+}
